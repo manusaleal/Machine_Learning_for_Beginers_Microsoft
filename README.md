@@ -3,3 +3,4 @@
  
  1. [Regressão Linear - Primeiro Projeto](1_Linear_Regression.ipynb)
  2. [Análise e Limpeza do Conjunto de Dados](2_Data_Cleaning_Analysis.ipynb)
+ 3. [Correlação e Modelos de Regressão](3_Modelos_Regressao.ipynb)
